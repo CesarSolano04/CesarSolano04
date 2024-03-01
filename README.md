@@ -16,4 +16,7 @@ Currently, I'm a student pursuing a degree in Systems Analysis and Development a
 <a href="https://www.linkedin.com/in/cesar-solano-754b7226a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+
+
+
 ![destroy-code-mad](https://github.com/CesarSolano04/CesarSolano04/assets/146193809/ef5dd85e-93b5-4a94-a849-4a6fefd63ec0)
